@@ -1,0 +1,19 @@
+.registrazione {
+    padding-bottom: 500px;
+    background-image: url('https://images.pexels.com/photos/1809347/pexels-photo-1809347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-position-y: center;
+}
+
+.titolo {
+    color: white;
+    font-family: cursive;
+    font-size: 50px;
+    margin-top: 250px;
+}
+
+.form-reg {
+    background-color: rgba(161, 204, 204, 0.637);
+    margin-top: 60px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+}
