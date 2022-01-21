@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
 import Header from './components/header/Header';
 import Registrazione from './components/header/Registrazione';
+import Footer from './components/footer/footer';
 
 const URL_REGISTRA = 'http://localhost:8080/archivio/registraUtente';
 
@@ -48,15 +49,7 @@ useEffect(() => {
         </div>
     </div>
 
-    <div className="container">
-      <div className="row">
-          <div className="col-6 offset-3">
-            <h2>Ciao sono il Footer</h2>
-          </div>
-        </div>
-    </div>
-    
-    
+    <Footer></Footer>
     </>
   );
 }

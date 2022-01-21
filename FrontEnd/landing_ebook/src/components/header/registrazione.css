@@ -1,19 +1,19 @@
 .registrazione {
-    padding-bottom: 500px;
-    background-image: url('https://images.pexels.com/photos/1809347/pexels-photo-1809347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
-    background-position-y: center;
+    background-image: url('../../images/pictures/book_time_macarons.jpg');
+    background-repeat: no-repeat;
+    padding-bottom: 50%;
 }
 
 .titolo {
-    color: white;
+    color: black;
     font-family: cursive;
-    font-size: 50px;
-    margin-top: 250px;
+    font-size: 260%;
+    margin-top: 5%;
 }
 
 .form-reg {
     background-color: rgba(161, 204, 204, 0.637);
-    margin-top: 60px;
-    padding-bottom: 50px;
+    margin-top: 5%;
+    padding-bottom: 3%;
     border-radius: 10px;
 }
